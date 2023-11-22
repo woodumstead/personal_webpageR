@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.footer {
+  box-sizing: border-box;
+
+  .foot-text {
+    margin-left: 4rem;
+    margin-top: 11rem;
+    margin-bottom: 2rem;
+  }
+
+  .fa {
+    margin-left: 4rem;
+    display: inline-block;
+    margin-bottom: 2.3rem;
+    
+
+  }
+}

@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(209, 210, 216);
+}
+
+#welcome {
+    text-align: center;
+    font-family: cursive;
+}
+
+#aboutme{
+    display: inline-block;
+    
+}
+
+#ptagsdiv{
+    display: float;
+    float: left;
+
+}
+
+
+
+
+p {
+    float: left;
+    margin-left: 8rem;
+    max-width: 38%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    border-bottom: 2px solid;
+
+}
+
+img {
+    margin-top: 13rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 80px;
+    display: block;
+    height: 270px;
+    
+    
+}
