@@ -28,9 +28,9 @@ interest in back end development especially serverless frameworks.
             Some of my hobbies
             <br></br>
             <br></br>
-I really love to cook and love watching football (soccer) fan. My fitness
-is usually found outside playing football (soccer), swimming, surfing, 
-golfing, or running. When the rain comes is when it's time to play
+I grew up a football(soccer) fan, playing in punk rock bands. My fitness
+is usually found outside playing football(soccer), swimming, surfing, 
+golfing, or running. When the rains come is when it's time to play
 music and chess and make delicious food. 
 
 
