@@ -15,11 +15,9 @@ export default function Home() {
             My name is Woody,
 <br></br>
 <br></br>
-I have over a decade of government work experience and
-currently looking to break into the private sector. This past year 
-I finished up a six month coding bootcamp and have been able
-to learn about the giant world of programming. I have a huge 
-interest in back end development especially serverless frameworks.
+I have over a decade of government work experience and looking to break into the private sector. Currently working as a freelance web dev 
+looking to help small businesses gain a web footprint. 
+I have a huge interest in back-end development, especially serverless frameworks.
                 
             </p>
 
@@ -30,7 +28,7 @@ interest in back end development especially serverless frameworks.
             <br></br>
 I grew up a football(soccer) fan, playing in punk rock bands. My fitness
 is usually found outside playing football(soccer), swimming, surfing, 
-golfing, or running. When the rains come is when it's time to play
+golfing, or running. When the rains come, it's time to play
 music and chess and make delicious food. 
 
 
