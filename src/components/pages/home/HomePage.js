@@ -16,7 +16,7 @@ export default function Home() {
 <br></br>
 <br></br>
 I have over a decade of government work experience and looking to break into the private sector. Currently working as a freelance web dev 
-looking to help small businesses gain a web footprint. 
+helping small businesses gain a web footprint. 
 I have a huge interest in back-end development, especially serverless frameworks.
                 
             </p>
